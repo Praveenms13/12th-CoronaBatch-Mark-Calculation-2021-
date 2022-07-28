@@ -1,4 +1,4 @@
-# 12th-CoronaBatch-Mark-Calculation-2021-
+# 12th-CoronaBatch-Mark-Calculation-2021
 
 Just a Simple Program.
 As you all know 12th std students batch of 2021 doesn't have a public exam due to the covid pandemic, by the result of this all exams are cancelled and this public exam too..
